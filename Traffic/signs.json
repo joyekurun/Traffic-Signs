@@ -1,0 +1,301 @@
+{
+    "warning":
+    [
+        {   "label": "The TURN sign",
+            "ref": "Wa-1",
+            "des": "The TURN sign (Wa-1, Wa-101) indicates the most extreme change in road alignment, of the set of signs indicating forward curve shapes.",
+            "imageURL": "http://www.joyekurun.com/signs/warning/turn.png",
+            "size": "60 x 60 cm"
+        },
+        {   "label": "SHARP CURVE",
+            "ref": "Wa-2",
+            "des": "The SHARP CURVE sign (Wa-2, Wa-102)indicatesa less extreme change in road alignment for a forward curve shape than the TURN sign and a more extreme one than the CURVE sign.",
+            "imageURL": "http://www.joyekurun.com/signs/warning/sharp-curve.png",
+            "size": "60 x 60 cm"
+        },
+        {   "label": "CURVE Sign",
+            "ref": "Wa-3",
+            "des": "CURVE sign (Wa-3, Wa-103)  indicates the least extreme change in road alignment, of the set of signs indicating forward curve shapes.",
+            "imageURL": "http://www.joyekurun.com/signs/warning/curve.png",
+            "size": "60 x 60 cm"
+        },
+        {   "label": "SHARP REVERSE CURVE Sign",
+            "ref": "Wa-4",
+            "des": "SHARP REVERSE CURVE sign (Wa-4, Wa-104)  indicates a more extreme change in road alignment, of the set of signs indicating reverse curve shapes.",
+            "imageURL": "http://www.joyekurun.com/signs/warning/reverse-curve.png",
+            "size": "60 x 60 cm"
+        },
+        {   "label": "REVERSE CURVE Sign",
+            "ref": "Wa-5",
+            "des": "The REVERSE CURVE sign (Wa-5, Wa-105) indicates a less extreme change in road alignment, of the set of signs indicating reverse curve shapes.",
+            "imageURL": "http://www.joyekurun.com/signs/warning/reverse-curve2.png",
+            "size": "60 x 60 cm"
+        },
+        {   "label": "WINDING ROAD Sign",
+            "ref": "Wa-6",
+            "des": "The standard size WINDING ROAD sign (Wa-6) should be used on roads with one or two lanes per direction.",
+            "imageURL": "http://www.joyekurun.com/signs/warning/winding.png",
+            "size": "30 x 60 cm"
+        },
+        {   "label": "ADVISORY SPEED Sign",
+            "ref": "Wa-7",
+            "des": "The ADVISORY SPEED tab sign (Wa-7t) the safe speed for driving along a curve.",
+            "imageURL": "http://www.joyekurun.com/signs/warning/advisory-speed.png",
+            "size": "45 x 45 cm"
+        },
+        {   "label": "HAZZARD LENGTH TAB Sign",
+            "ref": "Wa-6t",
+            "des": " The HAZARD LENGTH tab sign (Wa-6t) should be Special Considerations used where the length of the winding road hazard is 1 km or greater.",
+            "imageURL": "http://www.joyekurun.com/signs/warning/hazard-tab-sign.png",
+            "size": "30 x 60 cm"
+        },
+        {   "label": "CHECKBOARD Sign",
+            "ref": "Wa-8",
+            "des": "The CHECKERBOARD sign must be used where a road terminates, and there is no option to proceed straight ahead, to the left or to the right. The standard size CHECKERBOARD sign (Wa-8) should be used where posted speed is 60 km/h.",
+            "imageURL": "http://www.joyekurun.com/signs/warning/checkboard.png",
+            "size": "90 x 90 cm"
+        },
+        {   "label": "CHECKBOARD(Both Direction)",
+            "ref": "Wa-8LR",
+            "des": "The CHECKERBOARD sign (both directions)  must be used where a road terminates, and there is no option to proceed straight ahead, but there are options to proceed to the left or to the right (i.e., a T-intersection).",
+            "imageURL": "http://www.joyekurun.com/signs/warning/checkboard2.png",
+            "size": "90 x 90 cm"
+        },
+        {   "label": "CHECHBOARD(One Direction",
+            "ref": "Wa-8L",
+            "des": "The  CHECKERBOARD sign (one direction) (left version)  must be used where a road terminates, and there is no option to proceed straight ahead or to the right, but there is an option to proceed to the left.",
+            "imageURL": "http://www.joyekurun.com/signs/warning/checkboard1.png",
+            "size": "90 x 90 cm"
+        },
+        {   "label": "CHEVRON ALIGNMENT",
+            "ref": "Wa-9",
+            "des": "  The standard size CHEVRON ALIGNMENT sign (Wa-9) should be used where the posted speed is60 km/h or less.",
+            "imageURL": "http://www.joyekurun.com/signs/warning/chevron.png",
+            "size": "45 x 45 cm"
+        },
+        {   "label": "DOUBLE ARROW Sign",
+            "ref": "Wa-17",
+            "des": " The purpose of the DOUBLE ARROW sign is to indicate to drivers that they must direct their vehiclesto the right or left of obstructions such as: •Traffic islands with curbs more than 10 cm high.",
+            "imageURL": "http://www.joyekurun.com/signs/warning/double-arrow.png",
+            "size": "60 x 60 cm"
+        }
+	],
+
+
+    "regular":
+    [
+        {   "label": "STOP Sign",
+            "ref": "Ra-1",
+            "presidency": "1",
+            "des": "The purpose of the STOP sign is to clearly assign right-of-way between vehicles approaching an intersection from different directions when traffic signals are not warranted or not yet installed and it has been determined that a YIELD sign is inadequate.",
+            "imageURL": "http://www.joyekurun.com/signs/regulatory/stop.png",
+            "size": "60 x 60 cm"
+        },
+        {   "label": "YIELD Sign",
+            "ref": "Ra-2",
+            "des": "The purpose of the YIELD sign is to regulate right-ofway control. A YIELD sign can be an effective control device atintersections, roundabouts or where necessary at traffic circles.",
+            "imageURL": "http://www.joyekurun.com/signs/regulatory/yield.png",
+            "size": "75 cm"
+        },
+        {   "label": "PEDESTRIAN X (Crossover)",
+            "ref": "Ra-4",
+            "des": "The PEDESTRIAN X (Crossover) sign (Ra-4) identifies the presence and location of the pedestrian crossover to drivers, pedestrians and other road users.",
+            "imageURL": "http://www.joyekurun.com/signs/regulatory/pedestrian1.png",
+            "size": "60 x 75 cm"
+        },
+        {   "label": "NO PASSING HERE",
+            "ref": "Ra-10",
+            "des": "The NO PASSING HERE TO CROSSING sign (Ra-10) prohibits passing within a 30 m stretch upstream of the pedestrian crossover.",
+            "imageURL": "http://www.joyekurun.com/signs/regulatory/no-passing.png",
+            "size": "60 x 75 cm"
+        },
+        {   "label": "PEDESTRIAN PUSHBUTTON",
+            "ref": "Ra-11",
+            "des": "The PEDESTRIAN PUSHBUTTON sign (Ra-11) symbolically indicates to pedestrians what they must do prior to crossing at the pedestrian crossover.",
+            "imageURL": "http://www.joyekurun.com/signs/regulatory/pushbutton.png",
+            "size": "60 x 60 cm"
+        },
+        {   "label": "MAXIMUM SPEED Sign",
+            "ref": "Rb-1",
+            "des": "The MAXIMUM SPEED sign (Rb-1) is the basic version of the speed limit sign..",
+            "imageURL": "http://www.joyekurun.com/signs/regulatory/max-speed.png",
+            "size": "60 x 75 cm"
+        },
+        {   "label": "SCHOOL ZONE MAXIMUM SPEED",
+            "ref": "Rb-6",
+            "des": "The SCHOOL ZONE MAXIMUM SPEED sign indicates to motorists that they should reduce their speeds at certain times because they are entering a school zone where school children are present and may be crossing the road..",
+            "imageURL": "http://www.joyekurun.com/signs/regulatory/school-zone.png",
+            "size": "60 x 90 cm"
+        },
+        {   "label": "NO STRAIGHT THROUGH",
+            "ref": "Rb-10",
+            "des": "The NO STRAIGHT THROUGH sign (Rb-10) prohibits straight-through movements, and requires that the vehicle turn to either the left or right.",
+            "imageURL": "http://www.joyekurun.com/signs/regulatory/no-straight.png",
+            "size": "60 x 60 cm"
+        },
+        {   "label": "NO RIGHT TURN",
+            "ref": "Rb-11",
+            "des": "The NO RIGHT TURN sign (Rb-11) sign prohibits right turns..",
+            "imageURL": "http://www.joyekurun.com/signs/regulatory/no-right-turn.png",
+            "size": "60 x 60 cm"
+        },
+        {   "label": "NO LEFT TURN",
+            "ref": "Rb-12",
+            "des": "The NO LEFT TURN sign (Rb-12) sign prohibits left turns..",
+            "imageURL": "http://www.joyekurun.com/signs/regulatory/no-left-turn.png",
+            "size": "60 x 60 cm"
+        },
+     {   "label": "NO STRAIGHT THROUGH OR RIGHT TURN",
+            "ref": "Rb-13",
+            "des": "The NO STRAIGHT THROUGH OR RIGHT TURN sign (Rb-13) prohibits both straight-through and right-turn movements.",
+            "imageURL": "http://www.joyekurun.com/signs/regulatory/no-right-through.png",
+            "size": "60 x 60 cm"
+            },
+            {   "label": "NO STRAIGHT THROUGH OR LEFT TURN",
+            "ref": "Rb-14",
+            "des": "The NO STRAIGHT THROUGH OR LEFT TURN sign (Rb-14) prohibits both straight-through and left-turn movements..",
+            "imageURL": "http://www.joyekurun.com/signs/regulatory/no-left-through.png",
+            "size": "60 x 60 cm"
+        }
+     ],
+    
+    
+    "temp":
+    [
+        {   "label": "CONSTRUCTION AHEAD",
+            "ref": "Tc-1",
+            "des": "TC-1, TC-1A and TC-1B signs must be used to provide advance warning of a work zone for long duration operations and may be used for a short duration work zone.",
+            "imageURL": "http://www.joyekurun.com/signs/temporary/construction-ahead.png",
+            "size": "90 x 90 cm"
+        },
+        {   "label": "ROAD WORKS Sign",
+            "ref": "Tc-2",
+            "des": "The TC-2A or TC-2B sign must be used to inform road users that workers may be present.",
+            "imageURL": "http://www.joyekurun.com/signs/temporary/roadworks.png",
+            "size": "90 x 90 cm"
+        },
+        {   "label": "LANE CLOSED AHEAD Sign",
+            "ref": "Tc-3L",
+            "des": "The TC-3R or TC-3L sign must be used to provide advance warning of a closed lane.",
+            "imageURL": "http://www.joyekurun.com/signs/temporary/lane-closed.png",
+            "size": "90 x 90 cm"
+        },
+        {   "label": "LANE CLOSURE ARROW",
+            "ref": "Tc-4",
+            "des": "The TC-4L or TC-4R sign must be used to inform road users to merge into an adjacent open lane or on a partial lane shift.",
+            "imageURL": "http://www.joyekurun.com/signs/temporary/closure-arrow.png",
+            "size": "90 x 90 cm"
+        },
+        {   "label": "DETOUR AHEAD",
+            "ref": "Tc-5",
+            "des": "The TC-5, TC-5A or TC-5B sign must be used to provide advance warning of a detour.",
+            "imageURL": "http://www.joyekurun.com/signs/temporary/detour.png",
+            "size": "90 x 90 cm"
+        },
+        {   "label": "DETOUR-TURN OFF/DIVERSION",
+            "ref": "Tc-7",
+            "des": "The TC-7 sign must be used to indicate a road closure or route detour, as illustrated on the typical sign layouts.",
+            "imageURL": "http://www.joyekurun.com/signs/temporary/diversion.png",
+            "size": "120 x 120 cm"
+        },
+        {   "label": "ROADSIDE DIVERSION WARNING",
+            "ref": "Tc-9",
+            "des": "The TC-9 must be installed at locations where traffic is diverted around work areas, largely or entirely within the highway right of way.",
+            "imageURL": "http://www.joyekurun.com/signs/temporary/roadside.png",
+            "size": "75 x 75 cm"
+        },
+        {   "label": "DETOUR DESIGNATION WARNING",
+            "ref": "Tc-10",
+            "des": "The TC-10 DETOUR DESIGNATION sign, TC-10 marker, and TC-10 A, B, C, D, E, and F markers must be used to indicate an alternate route for traffic to follow where construction activities require total or partial closure of roads or streets, and signed detour routes are required to handle traffic.",
+            "imageURL": "http://www.joyekurun.com/signs/temporary/designation.png",
+            "size": "60 x 120 cm"
+        },
+        {   "label": "NARROW LANES Sign",
+            "ref": "Tc-11",
+            "des": "The TC-11 NARROW LANES sign should be used to warn drivers on multi-lane roads that they are approaching a work area where lane widths have been reduced due to work operations.",
+            "imageURL": "http://www.joyekurun.com/signs/temporary/roadworks.png",
+            "size": "90 x 90 cm"
+        },
+        {   "label": "PAVEMENT ENDS",
+            "ref": "Tc-13",
+            "des": "The TC-13 sign must be installed in advance of the point where the pavement ends and changes to a gravel surface due to roadwork.",
+            "imageURL": "http://www.joyekurun.com/signs/temporary/pavement.png",
+            "size": "90 x 90 cm"
+        },
+        {   "label": "BUMP AHEAD Sign",
+            "ref": "Tc-14",
+            "des": "The TC-14 sign must be located in advance of the TC-15 sign, at a distance taken fromthe appropriate table (Table A, B, or C: 5*). It must be removed as soon as the roadway deficiency no longer exists. The TC-14 sign may not be required in low speed urban areas.",
+            "imageURL": "http://www.joyekurun.com/signs/temporary/bump-ahead.png",
+            "size": "60 x 60 cm"
+        },
+        {   "label": "BUMP Sign",
+            "ref": "Tc-15",
+            "des": "The TC-15 sign must be installed adjacent to the bump and removed as soon as the roadway deficiency no longer exists.",
+            "imageURL": "http://www.joyekurun.com/signs/temporary/bump.png",
+            "size": "60 x 60 cm"
+        }
+     ],
+    
+    "custom":
+    [
+        {   "label": "NO PEDESTRIANS Sign",
+            "ref": "Rc-12",
+            "des": "This NO PEDESTRIANS sign prohibits the access of pedestrians to freeways, bridges or other designated highway sections where their presence may create a hazard to both motorized traffic and themselves.",
+            "imageURL": "http://www.joyekurun.com/signs/custom/no-pedestrian.png",
+            "size": "60 x 60 cm"
+        },
+        {   "label": "FASTEN SEAT BELT Sign",
+            "ref": "Rc-13",
+            "des": "The FASTEN SEAT BELT sign should be considered at exits from locations which generate a large percentage of foreign or tourist traffic, where drivers may be unfamiliar with Ontario seat belt laws.",
+            "imageURL": "http://www.joyekurun.com/signs/custom/fasten.png",
+            "size": "60 x 60 cm"
+        },
+        {   "label": "NO IN-LINE SKATING Sign",
+            "ref": "Rc-10",
+            "des": "The NO IN-LINE SKATING sign prohibits the access of persons travelling on in-line skates to freeways, bridges or other designated highway sections where their presence may pose a hazard to vehicles or themselves.",
+            "imageURL": "http://www.joyekurun.com/signs/custom/skating.png",
+            "size": "60 x 60 cm"
+        },
+        {   "label": "NO LITTERING Sign",
+            "ref": "Rc-4",
+            "presidency": "1",
+            "des": "TThe NO LITTERING sign (Rc-4) is the standard symbol sign.",
+            "imageURL": "http://www.joyekurun.com/signs/custom/litter.png",
+            "size": "60 x 60 cm"
+        },
+        {   "label": "NO SNOWMOBILES Sign",
+            "ref": "Rb-65",
+            "des": "The Rb-65 NO SNOWMOBILES sign may be used to supplement a permissive signing system for continuous snowmobile routes.",
+            "imageURL": "http://www.joyekurun.com/signs/custom/snowmobile.png",
+            "size": "60 x 60 cm"
+        },
+        {   "label": "SNOWMOBILE ROUTE Sign",
+            "ref": "Rb-64",
+            "des": "The SNOWMOBILE ROUTE sign (Rb-64) is the standard permissive sign.",
+            "imageURL": "http://www.joyekurun.com/signs/custom/snow.png",
+            "size": "60 x 60 cm"
+        },
+        {   "label": "NO BICYCLES Sign",
+            "ref": "Ra-1",
+            "presidency": "1",
+            "des": "The NO BICYCLES sign (Rb-67) may be used to supplement a permissive signing system for continuous bicycle routes.",
+            "imageURL": "http://www.joyekurun.com/signs/custom/no-bicycle.png",
+            "size": "60 x 60 cm"
+        },
+        {   "label": "BICYCLE ROUTE Sign",
+            "ref": "Rb-169",
+            "des": "The standard BICYCLE ROUTE sign (Rb-169) may be used to advise motorists and cyclists of officially designated bicycle routes along municipal roadways, where bicycles and vehicles are both permitted.",
+            "imageURL": "http://www.joyekurun.com/signs/custom/bicycle.png",
+            "size": "60 x 60 cm"
+        },
+        {   "label": "DISABLED PARKING PERMIT Sign",
+            "ref": "Rb-93",
+            "des": "The DISABLED PARKING PERMIT sign (Rb-93) must be used to exempt vehicles displaying a valid a Disabled Persons Parking Permit from parking prohibitions at designated parking spaces, and thereby to indicate parking spaces designated for use by disabled persons possessing a valid Disabled Persons Parking Permit.",
+            "imageURL": "http://www.joyekurun.com/signs/custom/disable-parking.png",
+            "size": "30 x 45 cm"
+        }
+
+
+     ]
+
+}
