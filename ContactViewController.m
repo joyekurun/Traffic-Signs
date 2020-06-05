@@ -106,7 +106,7 @@
 - (IBAction)smsBtn:(id)sender {
     
     [[UIApplication sharedApplication]
-     openURL:[NSURL URLWithString:@"sms:6472000147"]];
+     openURL:[NSURL URLWithString:@"sms:"]];
 }
 
 // email composer button
