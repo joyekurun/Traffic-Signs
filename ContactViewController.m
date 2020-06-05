@@ -98,7 +98,7 @@
 - (IBAction)phoneBTn:(id)sender {
     
     [[UIApplication sharedApplication]
-     openURL:[NSURL URLWithString:@"tel:6472000147"]];
+     openURL:[NSURL URLWithString:@"tel:XXXXXX"]];
 }
 
 // sms enable
